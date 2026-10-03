@@ -1,7 +1,4 @@
 -- Banana Cat Premium.
--- By DevAurora Code
--- https://discord.gg/pU9ckzwsut
-
 function BuildSchema()
 	local m, E = {}, 1
 	for l, Q in pairs(Options) do
